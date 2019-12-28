@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Test Knowledge Android</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+    <string name="slide_1_title">WATCH</string>
+    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="slide_2_title">TRY</string>
+    <string name="slide_2_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="slide_3_title">LEARN</string>
+    <string name="slide_3_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="mulai_lagi_slider">Start again the slider</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="presented_title">Presented By:</string>
+    <string name="contact_title">Contact Us:</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="test_knowledge">TEST KNOWLEDGE</string>
+    <string name="android">ANDROID</string>
+    <string name="nickname">Nickname</string>
+    <string name="test_again">Test Again</string>
+    <string name="question1">Komponen yang berhubungan dengan pengguna dan menangani window (tampilan) mana yang akan di tampilkan ke dalam interface (antarmuka) disebut ...</string>
+    <string name="answer">Answer</string>
+    <string name="question2">Objek yang disimpan di dalam onSaveInstanceState adalah ...</string>
+    <string name="bundle">Bundle</string>
+    <string name="activity">Activity</string>
+    <string name="string">String</string>
+    <string name="question3">Yang termasuk jenis-jenis intent adalah ... (Jawaban ada 2)</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="activity_intent">Activity Intent</string>
+    <string name="question4">Komponen yang membuat pengguna dapat berinteraksi dengan cara ditekan untuk melakukan sesuatu disebut ...</string>
+    <string name="question5">Sebuah obyek yang mewadahi obyek-obyek view dan viewgroup itu sendiri sehingga membentuk satu kesatuan tampilan aplikasi yang utuh disebut ...</string>
+    <string name="finish">Finish</string>
+    <string name="you_got">you got</string>
+    <string name="answer_is_empty">The answer can\'t empty.</string>
+    <string name="nickname_is_empty">Fill the nickname.</string>
+
+    <string-array name="answer4">
+        <item>TextView</item>
+        <item>CheckBox</item>
+        <item>RadioButton</item>
+        <item>Button</item>
+        <item>Spinner</item>
+    </string-array>
+</resources>
